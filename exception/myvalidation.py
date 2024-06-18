@@ -1,0 +1,2 @@
+class Myvalidation(Exception):
+    pass
